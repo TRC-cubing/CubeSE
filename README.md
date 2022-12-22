@@ -14,6 +14,7 @@ Download the latest CubeSE installer from Releases and execute the installer.
 
 Please install the latest version of ***Python3***, too.
 CubeSE uses Python to execute its GUI.
+
 Please be carefull not to forget adding python.exe to PATH.
 
 # Usage
