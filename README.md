@@ -10,17 +10,16 @@ Solve the Rubik's Cube by painting the net of cube.
 
 
 # Install
-Download the latest CubeSE installer from Release
+Download the latest CubeSE installer from Releases and execute the installer.
+
+Please install the latest version of ***Python3***, too.
+CubeSE uses Python to execute its GUI.
+Please be carefull not to forget adding python.exe to PATH.
 
 # Usage
 
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
 
-```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
-```
+
 # Creater
 Please contact me [here](https://twitter.com/TRC_cpy)!
 
