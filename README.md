@@ -17,10 +17,6 @@ CubeSE uses Python to execute its GUI.
 
 Please be carefull not to forget adding python.exe to PATH.
 
-# Usage
-
-
-
 # Creater
 Please contact me [here](https://twitter.com/TRC_cpy)!
 
