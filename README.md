@@ -23,13 +23,16 @@ Download the latest CubeSE installer from Releases and execute the installer.
 Please install the latest version of ***Python3***, too.
 CubeSE uses Python to execute its GUI.
 
-Please be carefull not to forget adding python.exe to PATH.
+Please be carefull not to forget adding PATH.
 
 Then, please install Pillow.
+Usually, pip will be automatically installed with Python3.
 
 ```
 pip install Pillow
 ```
+
+After Pillow successfully installed, now you can use CubeSE!
 
 # Creater
 Please contact me [here](https://twitter.com/TRC_cpy)!
