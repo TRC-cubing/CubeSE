@@ -20,7 +20,7 @@ Solve the Rubik's Cube by painting the net of cube.
 Download the latest CubeSE installer from Releases and execute the installer.
 This is an example of Microsoft Edge.
 
-**1.Click **
+**1.Click CubeSE installer v1.0.0.exe**
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/117336821/209359723-38f4d270-e840-476a-be58-172fe2783ce7.png)
 ![Screenshot (2)](https://user-images.githubusercontent.com/117336821/209359738-2d72f96a-60a3-4ae5-b122-307b4d69bccd.png)
