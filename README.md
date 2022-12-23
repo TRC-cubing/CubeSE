@@ -47,22 +47,40 @@ Please be carefull not to forget adding python.exe to PATH.
 
 **9.Type "pip install Pillow" and press Enter**
 
-|![Screenshot (10)](https://user-images.githubusercontent.com/117336821/209359775-6745f34a-8e50-484c-83c0-481631345f8e.png)|![Screenshot (11)](https://user-images.githubusercontent.com/117336821/209359783-ff73843b-8c3c-499d-b948-ddb0b03285df.png)|
-|---|---|
-|![Screenshot (12)](https://user-images.githubusercontent.com/117336821/209359795-a16674f5-e093-4c5a-8a07-cef29d74f732.png)||
-
-![Screenshot (5)](https://user-images.githubusercontent.com/117336821/209359750-e7c76e15-0d64-46b2-abeb-a2323dcab4d0.png)
-![Screenshot (6)](https://user-images.githubusercontent.com/117336821/209359757-e83c6935-b322-454d-a19b-c5fb0cdde792.png)
-![Screenshot (7)](https://user-images.githubusercontent.com/117336821/209359762-39b5e0e5-ce3a-467a-b6b9-2c8f76b67c72.png)
-![Screenshot (8)](https://user-images.githubusercontent.com/117336821/209359767-5dff19d5-2b9b-4aeb-a19e-1cf7e9554a88.png)
-![Screenshot (9)](https://user-images.githubusercontent.com/117336821/209359769-6bc482bb-4aca-4383-95d6-f159ead8d3be.png)
-![Screenshot (13)](https://user-images.githubusercontent.com/117336821/209359803-560beb07-0a48-47c5-8179-965dd24283bb.png)
-
 ```
 pip install Pillow
 ```
 
-After Pillow successfully installed, now you can use CubeSE!
+|![Screenshot (10)](https://user-images.githubusercontent.com/117336821/209359775-6745f34a-8e50-484c-83c0-481631345f8e.png)|![Screenshot (11)](https://user-images.githubusercontent.com/117336821/209359783-ff73843b-8c3c-499d-b948-ddb0b03285df.png)|
+|---|---|
+|![Screenshot (12)](https://user-images.githubusercontent.com/117336821/209359795-a16674f5-e093-4c5a-8a07-cef29d74f732.png)||
+
+Third, please run **CubeSE installer v1.0.0.exe**
+
+
+**10.Double-click the installer to run**
+
+**11.Click "More info"**
+
+**12.Click "Run anyway"**
+
+After clicking "Run anyway", installer starts to run.
+Please follow its instructions.
+
+|![Screenshot (20)](https://user-images.githubusercontent.com/117336821/209371773-bd1357ca-76e6-4a69-892b-b2c454d481ee.png)|![Screenshot (21)](https://user-images.githubusercontent.com/117336821/209371777-2cb71226-0dfa-4a7d-b440-31272b91064f.png)|
+|---|---|
+|![Screenshot (22)](https://user-images.githubusercontent.com/117336821/209371780-fce2a316-d427-49ed-829d-1714377ea8dc.png)|![Screenshot (23)](https://user-images.githubusercontent.com/117336821/209371783-3f35874f-3cef-45e1-a68d-7ff7d7ad19b7.png)|
+
+Finally, for the first time you execute CubeSE, you may have to select with which app to open the file.
+
+**13.Select Python with this icon or select pythonw.exe, which is located at "AppData\Local\Programs\Python\Python3XX\pythonw.exe"**
+
+Directory "AppData" is Hidden item.
+
+Now CubeSE is available!
+
+|![Screenshot (9)](https://user-images.githubusercontent.com/117336821/209359769-6bc482bb-4aca-4383-95d6-f159ead8d3be.png)|![Screenshot (13)](https://user-images.githubusercontent.com/117336821/209359803-560beb07-0a48-47c5-8179-965dd24283bb.png)|
+|---|---|
 
 # Creater
 Please contact me [here](https://twitter.com/TRC_cpy)!
