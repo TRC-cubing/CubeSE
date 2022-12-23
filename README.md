@@ -22,7 +22,7 @@ This is an example of Microsoft Edge.
 
 **1.Click CubeSE installer v1.0.0.exe**
 
-![Screenshot (1)](https://user-images.githubusercontent.com/117336821/209359723-38f4d270-e840-476a-be58-172fe2783ce7.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/117336821/209365628-ee835363-ecde-4e34-ad15-09b9aaac0e2d.png)
 ![Screenshot (2)](https://user-images.githubusercontent.com/117336821/209359738-2d72f96a-60a3-4ae5-b122-307b4d69bccd.png)
 ![Screenshot (3)](https://user-images.githubusercontent.com/117336821/209359746-16bc2af9-7d88-4841-b389-990de21caa95.png)
 ![Screenshot (4)](https://user-images.githubusercontent.com/117336821/209359748-c0a202fa-a9e6-4b70-ad79-7f3841e8eb73.png)
