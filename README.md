@@ -8,6 +8,8 @@ Solve the Rubik's Cube by painting the net of cube.
 ***Python3 Required***
 
 ***ONLY FOR WINDOWS***
+
+日本語の説明は[こちら](https://trc-cpy.hatenablog.com/entry/2022/12/24/233706)をご覧ください。
 # Demo
 |![スクリーンショット (205)](https://user-images.githubusercontent.com/117336821/209169832-ed17b512-f7ab-41c2-88b6-89f797f0d893.png)|![スクリーンショット (207)](https://user-images.githubusercontent.com/117336821/209169842-ed491a2e-2a29-42cd-88bd-318133abe918.png)|
 |---|---|
