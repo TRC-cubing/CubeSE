@@ -22,7 +22,7 @@ This is an example of Microsoft Edge.
 
 **1.Click CubeSE installer vX.X.X.exe(Latest version)**
 
-**2.Click ...　of the caution**
+**2.Click ... of the caution**
 
 **3.Click "Keep"**
 
